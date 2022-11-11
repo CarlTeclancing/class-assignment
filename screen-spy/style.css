@@ -1,0 +1,11 @@
+h1, h2, h3{
+    cursor: pointer;
+}
+.f-content, .s-content, .t-content{
+    display: none;
+}
+button{
+    background: none;
+    border: none;
+    display: none;
+}
